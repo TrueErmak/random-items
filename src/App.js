@@ -6,33 +6,41 @@ import './styles.css';
 const chessSets = [
   {
     id: 1,
-    title: 'White & Black With Board',
-    images: ['/images/chess1.jpg',
-    '/images/chess3-2.jpeg',
-    '/images/chess2-1.jpeg'
+    title: 'random containers',
+    images: ['/images/container.jpg',
+    '/images/container2.jpg'
+    
   ],
     videos: [ ],
-    description: 'Description of Chess Set 1...',
+    description: 'random stuff that we make',
   },
   {
     id: 2,
-    title: 'Star Wars Set',
+    title: 'coasters',
     images: [
-      '/images/starWarsSet.jpg',
-      '/images/starwars wheel 1.jpg',
-      '/images/starwars wheel 3.jpg',
-      '/images/starwars wheel 5.jpg',
-      '/images/starwars wheel 6.jpg'
+      '/images/coaster set.jpg',
+      '/images/coaster.jpg'
+      
     ],
     videos: [
-      '/videos/palpatienOnEnder.mp4', // Add the video here
+       // Add the video here
     ],
-    description: 'Description of Star Wars Chess Set...',
+    description: 'the coasters page',
   },
   {
     id: 3,
-    title: 'Green and Blue Chess Set',
-    images: ['/images/chees 3.jpg',],
+    title: 'half life things and random',
+    images: ['/images/metro cop.jpg',
+    '/images/head crab 1.jpg',
+    '/images/headcrab 2.jpg',
+    '/images/drill gun housing.jpg',
+    '/images/skull man.jpg',
+    '/images/arduno case1.jpg',
+    '/images/arduno case 2.jpg',
+    '/images/arduno case 3.jpg',
+    '/images/crate 1.jpg',
+    '/images/crate 2.jpg'
+  ],
     videos: [ ],
     description: 'This is a green and blue chess set. The pieces are nice to show off here.',
   }
